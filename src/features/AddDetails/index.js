@@ -1,0 +1,1 @@
+export { AddDetails } from "./ui/AddDetails/AddDetails";

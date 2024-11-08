@@ -1,0 +1,1 @@
+export { TableTasks } from "./ui/TableTasks/TableTasks";

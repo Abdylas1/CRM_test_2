@@ -1,0 +1,18 @@
+.box {
+  margin-bottom: 16px;
+  width: 100%;
+  .name {
+    font-weight: bold;
+  }
+  .processing {
+    color: red;
+  }
+  .completed {
+    color: green;
+  }
+  .ant-card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+}
